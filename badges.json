@@ -6,6 +6,10 @@
       "badge": "https://cdn.discordapp.com/emojis/1422116894990929921.webp?size=64"
     },
     {
+      "tooltip": "zettai",
+      "badge": "https://cdn.discordapp.com/emojis/1427585590152663040.webp?size=64"
+    },
+    {
       "tooltip": "Privcord Founder",
       "badge": "https://cdn.nest.rip/uploads/78cb1e77-b7a6-4242-9089-e91f866159bf.png"
     }
@@ -14,6 +18,12 @@
     {
       "tooltip": "Taviz",
       "badge": "https://cdn.discordapp.com/emojis/1415127693854511134.gif?size=48&animated=true&name=sevgilim%7E32"
+    }
+  ],
+    "682549231365390375": [
+    {
+      "tooltip": "ihlal",
+      "badge": "https://cdn.discordapp.com/emojis/1286308702663606274.gif?size=48&animated=true"
     }
   ]
 }
