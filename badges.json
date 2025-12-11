@@ -1,4 +1,3 @@
-
 {
   "249620332925812736": [
     {
@@ -20,7 +19,7 @@
       "badge": "https://cdn.discordapp.com/emojis/1415127693854511134.gif?size=48&animated=true&name=sevgilim%7E32"
     }
   ],
-    "285687816648785921": [
+  "285687816648785921": [
     {
       "tooltip": "Whisper",
       "badge": "https://cdn.discordapp.com/emojis/1447655390295621652.webp?size=96"
@@ -30,7 +29,7 @@
       "badge": "https://cdn.discordapp.com/emojis/1447655388534280342.webp?size=96"
     }
   ],
-    "795709737617981491": [
+  "795709737617981491": [
     {
       "tooltip": "TEDDY",
       "badge": "https://cdn.discordapp.com/emojis/1430666540012802199.webp?size=44"
@@ -48,7 +47,7 @@
       "badge": "https://cdn.discordapp.com/emojis/1424966466347860030.webp?size=64"
     }
   ],
-    "830498339219963955": [
+  "830498339219963955": [
     {
       "tooltip": "IHLAL",
       "badge": "https://discord.com/assets/e32dff8429e8328b.svg"
@@ -62,16 +61,30 @@
       "badge": "https://cdn.discordapp.com/emojis/1417936624666415124.webp?size=48&name=mute%7E1"
     }
   ],
-    "682549231365390375": [
+  "682549231365390375": [
     {
       "tooltip": "ihlal",
       "badge": "https://cdn.discordapp.com/emojis/1286308702663606274.gif?size=48&animated=true"
     }
   ],
-    "1348044738980352010": [
+  "1348044738980352010": [
     {
       "tooltip": "tsbpro",
       "badge": "https://cdn.discordapp.com/emojis/1417613622301163590.webp?size=96"
+    }
+  ],
+  "690178728457666634": [
+    {
+      "tooltip": "NumberOne",
+      "badge": "https://cdn.discordapp.com/attachments/1447653357886898187/1448605895335346296/7225-crown_1.png?ex=693bdedf&is=693a8d5f&hm=3d6ab382850fa0686d2dc874ca51d602cdc5a46740e6d5a15d75f7a60f5d7186&"
+    },
+    {
+      "tooltip": "Got You First",
+      "badge": "https://cdn.discordapp.com/emojis/940305248214470666.webp?size=96"
+    },
+    {
+      "tooltip": "Shazo",
+      "badge": "https://cdn.discordapp.com/emojis/1040166100467470336.webp?size=96"
     }
   ]
 }
